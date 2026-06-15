@@ -100,3 +100,6 @@ Contoh titik pemeriksaan:
 - API key kena limit?
 - Tipe data SQL tidak cocok dengan hasil transformasi (mis. dari Pandas/dataframe)?
 - Error saat insert/query?
+
+## 6) Documentation
+![Weather-App.png](https://github.com/rakajo78/Weather-App/blob/325d4624744fb1ceb031ff082f7ef8be90216509/Weather-App-Documentation.png)
